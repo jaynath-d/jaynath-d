@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Jaynath Ray 👋
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaynath-d)
 
-<!--
-**jaynath-d/jaynath-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer. I love programming, speaking and traveling.
 
-Here are some ideas to get you started:
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why i like to make things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about personal stuff:**
+- 🧑 I'm currently working on something cool;
+- 🚀 I'm currently learning Data Structures and Algorithms;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: pcode27@gmail.com;
+- 🗒️ Resume
+
+#### 📊 This Week I Spent My Time On:
+
+#### 📈 My GitHub Stats:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaynath-d&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
