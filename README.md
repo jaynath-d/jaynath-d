@@ -1,5 +1,5 @@
 ### Hi there, I'm Jaynath Ray 👋
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaynath-d)
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaynath-d.jaynath-d)
 
 I am a full-stack software engineer. I love programming, speaking and traveling.
 
