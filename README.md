@@ -15,7 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com);
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pcode027@gmail.com;
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://jaynath-d.github.io/Resume.pdf).
@@ -24,14 +24,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-```text
-TypeScript      1 hr 7 mins     ██████████████▓░░░░░░░░░░   59.19 %
-Objective-C++   28 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-JSON            8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Cocoa           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JavaScript      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-```
 
 <!--END_SECTION:waka-->
 
